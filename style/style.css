@@ -24,3 +24,13 @@ figure {
     padding: 50px 200px;
     border: 0;
 }
+
+nav{
+    display: flex;
+
+}
+
+.item {
+    border: 5px solid red;
+    flex: 1;
+}
